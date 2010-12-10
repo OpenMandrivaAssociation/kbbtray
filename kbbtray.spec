@@ -1,7 +1,7 @@
 Summary: Display the status of a Big Brother or Hobbit page in the system tray
 Name: kbbtray
 Version: 0.07
-Release: %mkrel 4
+Release: %mkrel 5
 License: GPL
 Group: Monitoring
 BuildArch: noarch
