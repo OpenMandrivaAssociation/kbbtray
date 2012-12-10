@@ -51,3 +51,27 @@ EOF
 %{_datadir}/kbbtray/
 %{_datadir}/applications/%{name}.desktop
 
+
+
+%changelog
+* Fri Dec 10 2010 Oden Eriksson <oeriksson@mandriva.com> 0.07-5mdv2011.0
++ Revision: 619888
+- the mass rebuild of 2010.0 packages
+
+* Fri Sep 04 2009 Thierry Vignaud <tv@mandriva.org> 0.07-4mdv2010.0
++ Revision: 429662
+- rebuild
+
+* Tue Jul 22 2008 Thierry Vignaud <tv@mandriva.org> 0.07-3mdv2009.0
++ Revision: 240880
+- rebuild
+- kill re-definition of %%buildroot on Pixel's request
+
+  + Olivier Blin <oblin@mandriva.com>
+    - restore BuildRoot
+
+* Wed Sep 05 2007 Buchan Milne <bgmilne@mandriva.org> 0.07-1mdv2008.0
++ Revision: 80392
+- import kbbtray
+
+
