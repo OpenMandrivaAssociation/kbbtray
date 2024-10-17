@@ -5,7 +5,7 @@ Release: %mkrel 5
 License: GPL
 Group: Monitoring
 BuildArch: noarch
-URL: http://coldstonelabs.org/doku.php?id=software:kbbtray
+URL: https://coldstonelabs.org/doku.php?id=software:kbbtray
 Source: http://coldstonelabs.org/files/%{name}-%{version}.tar.bz2
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-root
 Requires: python-kde
